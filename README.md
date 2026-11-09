@@ -19,8 +19,7 @@
 - 🚀 Building toward a **One-Person Company (OPC)** — learning to create and ship with a small, high-leverage toolkit.
 - 🔧 Exploring the intersection of **software, hardware & AI**.
 - 🎓 **B.S. in Data Science & Big Data Technology**, through a **Sino–U.S. joint education program** 🇨🇳 × 🇺🇸
-- 🌏 **Cantonese**
-- 🌏 **Cantonese** · 广东人
+- 🌏 **Cantonese** · Guangdong, China
 
 ### What I like working on
 
