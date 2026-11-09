@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Cynthiawongss/cynthiawongss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Cynthia 👋
 
-Here are some ideas to get you started:
+### AI Engineer · AI Product Manager · Forward Deployed Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Lab** &nbsp;·&nbsp; Engineering × Product × Business
+
+*Exploring how to turn AI ideas into products people actually use.*
+
+</div>
+
+---
+
+### A little about me
+
+- 👩🏻‍💻 Working across **AI engineering, product development, and real-world applications**.
+- 🧪 Part of an **AI Lab**, where I explore, prototype, and validate new AI-powered ideas.
+- 🚀 Building toward a **One-Person Company (OPC)** — learning to create and ship with a small, high-leverage toolkit.
+- 🎓 **B.S. in Data Science & Big Data Technology**, through a **Sino–U.S. joint education program** 🇨🇳 × 🇺🇸
+
+### What I like working on
+
+| ⚙️ Build | 🧠 Think | 🚀 Bring to life |
+| :--- | :--- | :--- |
+| AI applications, agents & prototypes | Product discovery, UX & data-informed decisions | 0 → 1 experiments, validation & commercialization |
+
+<br>
+
+<div align="center">
+
+*Curious by nature. Builder by choice.*
+
+</div>
