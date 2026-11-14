@@ -6,7 +6,7 @@
 
 **AI Lab** &nbsp;·&nbsp; Engineering × Product × Business
 
-*Aspiring to be an OPC*
+*Aspiring to build a One-Person Company*
 
 </div>
 
