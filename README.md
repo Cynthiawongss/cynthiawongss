@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Cynthia 🤍
+# Hiiieee, I'm Cynthia Wong🤍
 
 ### AI Engineer · AI Product Manager · Forward Deployed Engineer
 
@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+### About Meeeee🩷
 
 - 👩🏻‍💻 Working across **AI engineering, product development, and real-world applications**.
 - 💻 Part of an **AI Lab**, where I explore, prototype, and validate new AI-powered ideas.
@@ -21,7 +21,7 @@
 - 🎓 **B.S. in Data Science & Big Data Technology**, through a **Sino–U.S. joint education program** 🇨🇳 × 🇺🇸
 - 🌏 **Cantonese**
 
-### What I like working on
+### Things I'm into👩🏻‍💻
 
 | 🩵 Build | ❔ Think | 👾 Bring to life |
 | :--- | :--- | :--- |
