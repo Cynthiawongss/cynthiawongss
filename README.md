@@ -6,7 +6,7 @@
 
 **AI Lab** &nbsp;·&nbsp; Engineering × Product × Business
 
-*Exploring how to turn AI ideas into products people actually use.*
+*Aspiring to be an OPC.*
 
 </div>
 
